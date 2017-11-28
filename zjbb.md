@@ -7,6 +7,8 @@
 
 [Windows绝赞应用](https://emlvirus.gitbooks.io/windows-apps-that-amaze-us/content/)这里面推荐的软件都有质量保证哦！
 
+另一款[Windows惊艳软件](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)则是英文的啦。
+
 [Ninite](https://ninite.com/)这个软件可以帮助你自动安装你所需要的软件，而且都是最新版哦~超赞。
 
 # 浏览器

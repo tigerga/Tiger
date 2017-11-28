@@ -1,5 +1,7 @@
 网址导航
 ===
+[]()
+
 这里是我的网址导航站
 
 估计只有我自己一个人会用
@@ -14,7 +16,7 @@
 
 ## 论坛啥的
 
-[贴吧](https://tieba.baidu.com)
+[贴吧](https://tieba.baidu.com) | [书伴（kindle伴侣）](https://bookfere.com/)
 
 ## 网络工具
 
